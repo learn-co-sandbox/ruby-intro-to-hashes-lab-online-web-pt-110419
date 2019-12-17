@@ -17,13 +17,14 @@ def monopoly
 end
 
 def monopoly_with_second_tier
-	#copy and paste the monopoly hash you built in the previous method. We're going to # monopoly = {
+	# copy and paste the monopoly hash you built in the previous method. We're going #to
+	 monopoly = {
 
-	 #  :railroads => {
+	   :railroads => {
 
-	  #   :pieces => 4
+	     :pieces => 4
 
-	 #  }
+	  }
 
 	   
 # add stuff to it here!
